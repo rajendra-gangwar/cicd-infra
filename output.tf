@@ -4,5 +4,5 @@ output "vpcranid" {
 }
 
 output "vpcname" {
-    value = aws_vpc.test1
+  value = aws_vpc.test1
 }
